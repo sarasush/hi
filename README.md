@@ -1,2 +1,1 @@
-# hello-world
-my first github repository
+git clone https://github.com/near-examples/NFT
